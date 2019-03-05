@@ -1,0 +1,7 @@
+.pager li a {
+    margin: 0 4px;
+}
+
+.pager li a.active_link {
+    background: #000 !important;
+}
